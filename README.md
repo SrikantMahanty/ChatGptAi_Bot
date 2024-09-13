@@ -31,4 +31,4 @@ This project provides an interface to interact with OpenAI's ChatGPT and include
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/chatgpt-integration-project.git
+   [git clone https://github.com/yourusername/chatgpt-integration-project.git](https://github.com/SrikantMahanty/ChatGptAi_Bot)
